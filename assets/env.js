@@ -1,3 +1,3 @@
-//SSID='1Z04hpGaUvTDULpC-sj6zBinnnndcCc4QXC6Q2A_F6QY'
+//SSID='key=AIzaSyCBqZ8VftKevnjx-p_s8F3VEz4BXik9CeU'
 SSID='19w6_2mPaRVzNrk7tOOEwqTJeN_GGd4iT9t4vK1RChAI'
 SNAME=okazaki!A2:K1000
